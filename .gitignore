@@ -1,0 +1,8 @@
+task.md
+
+# ignore personal info
+cv.pdf
+main.py
+
+# testing folder and file
+test*
